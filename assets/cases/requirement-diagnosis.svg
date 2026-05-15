@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">需求诊断方案案例图</title>
+  <desc id="desc">需求诊断方案，包含需求拆解、原型、报价和分期计划。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="26" flood-color="#111827" flood-opacity="0.34"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <path d="M128 168 H1072 M128 594 H1072" stroke="#ffffff" stroke-opacity="0.16"/>
+  <g filter="url(#shadow)">
+    <rect x="118" y="98" width="964" height="564" rx="28" fill="#ffffff"/>
+    <text x="176" y="176" fill="#0f172a" font-size="42" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">需求诊断方案</text>
+    <text x="178" y="222" fill="#6d28d9" font-size="22" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">从一句想法拆成页面、功能、预算和排期</text>
+    <rect x="176" y="282" width="230" height="244" rx="22" fill="#f5f3ff"/>
+    <text x="218" y="338" fill="#5b21b6" font-size="28" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">需求表</text>
+    <rect x="218" y="374" width="136" height="18" rx="9" fill="#c4b5fd"/>
+    <rect x="218" y="414" width="108" height="18" rx="9" fill="#a78bfa"/>
+    <rect x="218" y="454" width="154" height="18" rx="9" fill="#ddd6fe"/>
+    <rect x="486" y="282" width="230" height="244" rx="22" fill="#eff6ff"/>
+    <text x="528" y="338" fill="#1d4ed8" font-size="28" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">原型图</text>
+    <rect x="528" y="374" width="146" height="90" rx="14" fill="#bfdbfe"/>
+    <rect x="550" y="398" width="102" height="12" rx="6" fill="#60a5fa"/>
+    <rect x="550" y="428" width="72" height="12" rx="6" fill="#93c5fd"/>
+    <rect x="796" y="282" width="230" height="244" rx="22" fill="#fff7ed"/>
+    <text x="838" y="338" fill="#c2410c" font-size="28" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">报价排期</text>
+    <rect x="838" y="376" width="138" height="36" rx="10" fill="#fdba74"/>
+    <rect x="838" y="430" width="108" height="36" rx="10" fill="#fed7aa"/>
+    <rect x="176" y="570" width="850" height="54" rx="14" fill="#f8fafc"/>
+    <text x="220" y="604" fill="#334155" font-size="20" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">当天交付 · 需求清单 · 简易原型 · 功能报价 · 分期建议</text>
+  </g>
+</svg>

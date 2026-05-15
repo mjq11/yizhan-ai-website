@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">AI客服知识库案例图</title>
+  <desc id="desc">AI客服聊天窗口、知识库节点和线索收集表单示意。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.48" stop-color="#164e63"/>
+      <stop offset="1" stop-color="#7c2d12"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="26" flood-color="#06111f" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <g opacity="0.24" stroke="#67e8f9" stroke-width="2">
+    <path d="M182 192 H380 L500 296 H700"/>
+    <path d="M214 552 H420 L560 446 H748"/>
+    <circle cx="182" cy="192" r="8" fill="#67e8f9"/>
+    <circle cx="748" cy="446" r="8" fill="#67e8f9"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="112" y="92" width="454" height="576" rx="28" fill="#f8fafc"/>
+    <rect x="112" y="92" width="454" height="82" rx="28" fill="#111827"/>
+    <text x="154" y="144" fill="#ffffff" font-size="26" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">AI客服窗口</text>
+    <circle cx="506" cy="132" r="14" fill="#22c55e"/>
+    <rect x="154" y="212" width="270" height="62" rx="18" fill="#e0f2fe"/>
+    <text x="182" y="250" fill="#075985" font-size="17" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">请问你们系统几天能上线？</text>
+    <rect x="218" y="306" width="286" height="92" rx="18" fill="#ecfdf5"/>
+    <text x="246" y="344" fill="#14532d" font-size="17" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">常规官网 3-7 天，带后台系统</text>
+    <text x="246" y="376" fill="#14532d" font-size="17" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">约 7-14 天，可当天出方案。</text>
+    <rect x="154" y="438" width="210" height="62" rx="18" fill="#fff7ed"/>
+    <text x="182" y="476" fill="#9a3412" font-size="17" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">留下微信和需求。</text>
+    <rect x="154" y="544" width="350" height="50" rx="14" fill="#ffffff" stroke="#dbe5f1"/>
+    <text x="180" y="576" fill="#64748b" font-size="16" font-weight="800" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">输入问题或联系方式</text>
+    <rect x="610" y="132" width="478" height="218" rx="26" fill="#ffffff"/>
+    <text x="654" y="190" fill="#0f172a" font-size="34" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">知识库训练</text>
+    <rect x="654" y="226" width="136" height="42" rx="12" fill="#e0f2fe"/>
+    <text x="684" y="253" fill="#075985" font-size="16" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">产品资料</text>
+    <rect x="814" y="226" width="136" height="42" rx="12" fill="#ecfdf5"/>
+    <text x="844" y="253" fill="#14532d" font-size="16" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">报价规则</text>
+    <rect x="654" y="286" width="296" height="20" rx="10" fill="#cbd5e1"/>
+    <rect x="654" y="318" width="210" height="20" rx="10" fill="#67e8f9"/>
+    <rect x="610" y="386" width="478" height="172" rx="26" fill="#fff7ed"/>
+    <text x="654" y="444" fill="#7c2d12" font-size="30" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">线索收集</text>
+    <rect x="654" y="482" width="330" height="34" rx="10" fill="#fed7aa"/>
+    <rect x="654" y="526" width="210" height="34" rx="10" fill="#fdba74"/>
+    <rect x="610" y="594" width="478" height="62" rx="16" fill="#ecfeff"/>
+    <text x="652" y="633" fill="#155e75" font-size="20" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">7天交付 · 知识库问答 · 转人工 · 线索表</text>
+  </g>
+</svg>

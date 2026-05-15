@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">智能制造企业官网案例图</title>
+  <desc id="desc">深色企业官网界面，包含产品中心、应用场景和询盘表单示意。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07131f"/>
+      <stop offset="0.55" stop-color="#0b3f6f"/>
+      <stop offset="1" stop-color="#0fa3b1"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#dff8f4" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#02101f" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <path d="M60 600 C260 520 400 640 600 548 C820 448 940 508 1140 420" fill="none" stroke="#49e3d2" stroke-width="2" opacity="0.26"/>
+  <path d="M110 126 H1090 M110 634 H1090" stroke="#ffffff" stroke-opacity="0.14"/>
+  <g filter="url(#shadow)">
+    <rect x="104" y="94" width="992" height="572" rx="24" fill="#f8fbff"/>
+    <rect x="104" y="94" width="992" height="76" rx="24" fill="#0c1b2c"/>
+    <circle cx="146" cy="132" r="9" fill="#ff6b6b"/>
+    <circle cx="174" cy="132" r="9" fill="#ffb545"/>
+    <circle cx="202" cy="132" r="9" fill="#12b981"/>
+    <text x="244" y="140" fill="#dbeafe" font-size="20" font-weight="800" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">智能制造企业官网</text>
+    <rect x="882" y="112" width="154" height="38" rx="8" fill="#126dff"/>
+    <text x="920" y="137" fill="#ffffff" font-size="16" font-weight="800" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">立即询盘</text>
+    <rect x="142" y="214" width="380" height="310" rx="18" fill="#10243a"/>
+    <text x="180" y="278" fill="#ffffff" font-size="42" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">自动化产线</text>
+    <text x="180" y="324" fill="#a7f3d0" font-size="22" font-weight="800" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">设备展示 / 场景方案 / 客户询盘</text>
+    <rect x="180" y="380" width="144" height="46" rx="8" fill="#12b981"/>
+    <text x="212" y="410" fill="#ffffff" font-size="18" font-weight="800" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">查看产品</text>
+    <g opacity="0.92">
+      <circle cx="410" cy="408" r="56" fill="#0fa3b1"/>
+      <circle cx="410" cy="408" r="26" fill="#10243a"/>
+      <path d="M410 326 V354 M410 462 V490 M328 408 H356 M464 408 H492 M352 350 L372 370 M448 446 L468 466 M468 350 L448 370 M372 446 L352 466" stroke="#a7f3d0" stroke-width="12" stroke-linecap="round"/>
+    </g>
+    <rect x="560" y="214" width="236" height="148" rx="16" fill="url(#card)"/>
+    <text x="592" y="260" fill="#07131f" font-size="22" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">产品中心</text>
+    <rect x="592" y="292" width="150" height="14" rx="7" fill="#bfd7ea"/>
+    <rect x="592" y="322" width="102" height="14" rx="7" fill="#49e3d2"/>
+    <rect x="828" y="214" width="226" height="148" rx="16" fill="#fff7ed"/>
+    <text x="860" y="260" fill="#07131f" font-size="22" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">应用场景</text>
+    <rect x="860" y="292" width="144" height="14" rx="7" fill="#fed7aa"/>
+    <rect x="860" y="322" width="92" height="14" rx="7" fill="#fb923c"/>
+    <rect x="560" y="394" width="494" height="130" rx="16" fill="#eef6ff"/>
+    <text x="592" y="438" fill="#07131f" font-size="22" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">询盘表单</text>
+    <rect x="592" y="468" width="180" height="24" rx="7" fill="#c7d2fe"/>
+    <rect x="792" y="468" width="144" height="24" rx="7" fill="#c7d2fe"/>
+    <rect x="956" y="462" width="64" height="36" rx="8" fill="#126dff"/>
+    <text x="973" y="486" fill="#ffffff" font-size="14" font-weight="800" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">提交</text>
+    <rect x="142" y="556" width="912" height="70" rx="14" fill="#ffffff"/>
+    <text x="180" y="600" fill="#334155" font-size="20" font-weight="800" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">6天交付 · 产品库 · SEO基础 · 表单收集 · 销售可转发</text>
+  </g>
+</svg>

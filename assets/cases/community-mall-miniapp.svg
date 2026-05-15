@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">社区团购小程序案例图</title>
+  <desc id="desc">小程序商品网格、订单管理和团长核销界面示意。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#132315"/>
+      <stop offset="0.5" stop-color="#166534"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="20" stdDeviation="25" flood-color="#0f1e12" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <circle cx="978" cy="132" r="130" fill="#fbbf24" opacity="0.16"/>
+  <circle cx="168" cy="626" r="170" fill="#86efac" opacity="0.14"/>
+  <g filter="url(#shadow)">
+    <rect x="112" y="100" width="976" height="560" rx="28" fill="#fffdf7"/>
+    <rect x="158" y="148" width="290" height="462" rx="32" fill="#111827"/>
+    <rect x="184" y="184" width="238" height="390" rx="24" fill="#f8fafc"/>
+    <text x="206" y="230" fill="#14532d" font-size="24" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">今日团购</text>
+    <rect x="206" y="254" width="174" height="36" rx="18" fill="#dcfce7"/>
+    <text x="224" y="278" fill="#166534" font-size="16" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">社区自提点</text>
+    <g>
+      <rect x="206" y="326" width="84" height="90" rx="14" fill="#ffedd5"/>
+      <circle cx="248" cy="356" r="22" fill="#fb923c"/>
+      <text x="222" y="394" fill="#7c2d12" font-size="14" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">水果盒</text>
+      <rect x="314" y="326" width="84" height="90" rx="14" fill="#dcfce7"/>
+      <circle cx="356" cy="356" r="22" fill="#22c55e"/>
+      <text x="330" y="394" fill="#14532d" font-size="14" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">蔬菜包</text>
+      <rect x="206" y="434" width="84" height="90" rx="14" fill="#e0f2fe"/>
+      <circle cx="248" cy="464" r="22" fill="#38bdf8"/>
+      <text x="226" y="502" fill="#075985" font-size="14" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">鲜牛奶</text>
+      <rect x="314" y="434" width="84" height="90" rx="14" fill="#fef9c3"/>
+      <circle cx="356" cy="464" r="22" fill="#eab308"/>
+      <text x="332" y="502" fill="#713f12" font-size="14" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">早餐包</text>
+    </g>
+    <rect x="506" y="154" width="520" height="198" rx="22" fill="#f8fafc"/>
+    <text x="548" y="206" fill="#0f172a" font-size="34" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">订单管理</text>
+    <rect x="548" y="238" width="390" height="18" rx="9" fill="#bbf7d0"/>
+    <rect x="548" y="278" width="322" height="18" rx="9" fill="#fed7aa"/>
+    <rect x="548" y="310" width="180" height="18" rx="9" fill="#bae6fd"/>
+    <rect x="506" y="386" width="246" height="164" rx="22" fill="#ecfdf5"/>
+    <text x="548" y="438" fill="#14532d" font-size="28" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">团长核销</text>
+    <rect x="548" y="468" width="118" height="42" rx="10" fill="#16a34a"/>
+    <text x="576" y="495" fill="#ffffff" font-size="16" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">扫码确认</text>
+    <rect x="780" y="386" width="246" height="164" rx="22" fill="#fff7ed"/>
+    <text x="822" y="438" fill="#7c2d12" font-size="28" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">优惠活动</text>
+    <rect x="822" y="468" width="132" height="42" rx="10" fill="#f97316"/>
+    <text x="850" y="495" fill="#ffffff" font-size="16" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">满减券</text>
+    <text x="548" y="612" fill="#334155" font-size="20" font-weight="900" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif">10天交付 · 商品上架 · 订单支付 · 团长核销 · 优惠券</text>
+  </g>
+</svg>
